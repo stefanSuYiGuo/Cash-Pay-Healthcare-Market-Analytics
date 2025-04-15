@@ -24,6 +24,9 @@ This project aims to identify **where and how** these markets are emerging using
 | `data.csv`                                  | 📥 Raw data file containing 2023 CMS Open Payments transaction-level records |
 | `state_agg.csv`                             | 📊 Aggregated state-level dataset generated from `cashpay_data_preprocessing_core.ipynb` |
 
+> 📁 Note: The raw dataset (`data.csv.gz`) is compressed due to GitHub file size limits.  
+> After downloading, unzip before running any notebooks.
+
 ---
 
 ## 🧠 Plan Overview
